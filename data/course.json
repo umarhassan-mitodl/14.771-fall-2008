@@ -1,0 +1,61 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Teaching and Education",
+      "Education Policy"
+    ]
+  ],
+  "legacy_uid": "4149a14e-604d-997c-8544-9d50b795114c",
+  "instructors": {
+    "content": [
+      "e2d9fa4e-c860-960f-5031-d3380945e4bb",
+      "6bd4d78d-e43c-92e0-857f-5d594fb6ea4f",
+      "601a8d40-da60-8ad0-ea65-d4ed75b72477"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "74e0f22b-34c4-3e0c-e1a8-b89cb89c318f",
+    "website": "14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008"
+  },
+  "course_title": "Development Economics: Microeconomic Issues and Policy Models",
+  "course_description": "Topics include productivity effects of health, private and social returns to education, education quality, education policy and market equilibrium, gender discrimination, public finance, decision making within families, firms and contracts, technology, labor and migration, land, and the markets for credit and savings.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.771",
+  "course_image_thumbnail": {
+    "content": "0f72d3b8-a3c5-058b-b81a-e91b12b25e89",
+    "website": "14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "13cbd2a1-de65-4070-a00e-50ef501cbddc",
+  "site_short_id": "14.771-fall-2008",
+  "site_url_path": "courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008",
+  "title": "Course Metadata"
+}
