@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of recitation topics along with associated
   handouts and data files.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
