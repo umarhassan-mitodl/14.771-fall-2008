@@ -3,8 +3,6 @@ content_type: page
 description: This section provides information on general readings for the course,
   articles on methods, and the schedule of reading assignments by lecture session.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
