@@ -5,8 +5,6 @@ description: 'Problem set on the paper "Inequality as a Determinant of Malnutrit
 file: /courses/14-771-development-economics-microeconomic-issues-and-policy-models-fall-2008/c86da6102a2e4b60b2b20c82d66e2164_assn1.pdf
 file_size: 82849
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
